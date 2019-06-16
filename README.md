@@ -1,4 +1,4 @@
-# Co-learningLounge
+# Co-Learning Lounge
 
 Welcome to Co-Learning Lounge, a non-profitable community where it adds wings to your flying career in the world of Artificial Intelligence. We are a group of Artificial Intelligence experts, Researchers, Data Scientist with rich experience in Machine Learning, Deep Learning, specialized in Natural Language Processing, Imaging, Recommendation systems,Time Series and lots more.
 
