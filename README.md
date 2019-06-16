@@ -80,7 +80,7 @@ Right now this is very much a self funded initiative. If you wish to see more an
 
 ## AI vs ML vs Deep Learning
 
-![](images/aivsml.jpg)
+![](images/aivsml.jpeg)
 
 ## What is Deep Learning?
 
