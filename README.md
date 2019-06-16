@@ -30,7 +30,6 @@ This repo will help you to become zero to hero in Artificial Intelligence.
 - [Books](#books)
 - [Online Courses](#online-course)
 - [Blogs to follow](#blogs-to-follow)
-- [Popular Channels for Computer Vision](#popular-channels-for-computer-vision)
 - [Popular AI/ML medium channel](#popular-ai/ml-medium-channel)
 - [Popular Deep learning frameworks](#popular-deep-learning-frameworks)
 - [Concepts](#concepts)
@@ -61,8 +60,19 @@ Right now this is very much a self funded initiative. If you wish to see more an
 - [Deep Learning : Advanced Computer Vision](https://www.udemy.com/advanced-computer-vision/?src=sac&kw=deep%20learning%3A%20advanced)
 
 ## Blogs to follow
-[Tombone's Computer Vision Blog](http://www.computervisionblog.com/)
 
+- [Einstein AI](https://einstein.ai/research)
+- [Google AI blog](https://ai.googleblog.com/)
+- [WildML](http://www.wildml.com/)
+- [DistillPub](https://distill.pub/) (distillpub is unique, blog and publication both)
+- [Sebastian Ruder](http://ruder.io/)
+
+## Popular AI/ML medium channel
+
+- [Towards data science](https://towardsdatascience.com/)
+- [ML review](https://medium.com/mlreview)
+- [Machine learning 101](https://medium.com/machine-learning-101)
+- [Analytics vidhya](https://medium.com/analytics-vidhya)
 
 ## Popular Deep learning frameworks
 
